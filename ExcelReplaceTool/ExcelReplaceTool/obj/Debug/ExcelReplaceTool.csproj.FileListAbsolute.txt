@@ -1,0 +1,17 @@
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\bin\Debug\ExcelReplaceTool.exe
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\bin\Debug\ExcelReplaceTool.pdb
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\obj\Debug\ExcelReplaceTool.csprojAssemblyReference.cache
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\obj\Debug\ExcelReplaceTool.ExcelReplaceTool.resources
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\obj\Debug\ExcelReplaceTool.Properties.Resources.resources
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\obj\Debug\ExcelReplaceTool.csproj.GenerateResource.cache
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\obj\Debug\ExcelReplaceTool.csproj.CoreCompileInputs.cache
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\obj\Debug\ExcelReplaceTool.exe
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\obj\Debug\ExcelReplaceTool.pdb
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\bin\Debug\BouncyCastle.Crypto.dll
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\bin\Debug\NPOI.dll
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\bin\Debug\NPOI.OOXML.dll
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\bin\Debug\NPOI.OpenXml4Net.dll
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\bin\Debug\NPOI.OpenXmlFormats.dll
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\bin\Debug\BouncyCastle.Crypto.xml
+H:\SelfWork\ExcelReplaceTool\ExcelReplaceTool\obj\Debug\ExcelReplaceTool.csproj.CopyComplete
